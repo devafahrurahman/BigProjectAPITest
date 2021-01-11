@@ -22,7 +22,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>${GlobalVariable.base_url}/api/v1/organization?id=145</restUrl>
+   <restUrl>${GlobalVariable.base_url}/api/v1/organization?id=999</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

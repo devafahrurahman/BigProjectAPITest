@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Bearer d0b75d2e03b871a6ccd4a08349862bce30a759a1'</initValue>
+      <initValue>'Bearer 445a45b7b7e373c75cc402d5851eac69826fdc79'</initValue>
       <name>token</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
