@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE004 - Get employee detail not found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1967d1e9-26c0-4e51-a2f6-98ee5033db0d</testCaseGuid>
+</TestCaseEntity>

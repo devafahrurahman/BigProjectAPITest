@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCA003 - Post user login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f40d6c9e-a84b-4b83-8288-1425847f5039</testCaseGuid>
+</TestCaseEntity>

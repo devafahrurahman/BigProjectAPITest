@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bearer d0b75d2e03b871a6ccd4a08349862bce30a759a1'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://34.123.127.154/symfony/web'</initValue>
+      <name>base_url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

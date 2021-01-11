@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCA002 - Get user not found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a765185f-fe4a-4df5-8cce-74481d58b7c8</testCaseGuid>
+</TestCaseEntity>

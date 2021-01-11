@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE006 - Update employe detail update failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce4c9dc6-d3ae-4679-ab59-4a2a14d045b6</testCaseGuid>
+</TestCaseEntity>

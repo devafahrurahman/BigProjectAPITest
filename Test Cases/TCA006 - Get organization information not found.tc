@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCA006 - Get organization information not found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>baba5e85-e378-4577-8047-9eb2357d525b</testCaseGuid>
+</TestCaseEntity>
