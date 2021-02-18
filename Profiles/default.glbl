@@ -6,12 +6,12 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Bearer 445a45b7b7e373c75cc402d5851eac69826fdc79'</initValue>
+      <initValue>'Bearer cc015c2b6db9f42a2a5bfd013cb9294ada2ea9a8'</initValue>
       <name>token</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://34.123.127.154/symfony/web'</initValue>
+      <initValue>'https://qa.cilsy.id/symfony/web'</initValue>
       <name>base_url</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

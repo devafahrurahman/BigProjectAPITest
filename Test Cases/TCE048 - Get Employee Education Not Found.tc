@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE048 - Get Employee Education Not Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>add25a42-6a1e-4ee7-a32f-075307dd71f6</testCaseGuid>
+</TestCaseEntity>

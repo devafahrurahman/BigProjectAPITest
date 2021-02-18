@@ -10,27 +10,27 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>8542594b-e562-4915-997f-a9e17e44af3e</testSuiteGuid>
+   <testSuiteGuid>550e5185-7ea1-4c06-9950-c7c9c4583b0a</testSuiteGuid>
    <testCaseLink>
-      <guid>be5ecd1d-afda-40dc-a288-2e68e9145bcb</guid>
+      <guid>2e18e4cf-0452-4323-8a55-8d45e43ec84d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TCAT001 - Punch In</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>cc5bb0a9-fb98-46cc-aff9-ebc26f10f1d0</guid>
+      <guid>19cc973f-93f2-46ae-97e9-d2e3fd9af71d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TCAT002 - Punch in cannot proceed</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>175b18dc-665b-495e-a12c-a930aafc74eb</guid>
+      <guid>80977c3c-0dc5-453f-b400-6b9e0b95ccf5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TCAT003 - Punch out</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>cc04eeac-2762-4d89-9974-3740ec051752</guid>
+      <guid>cef8ee8e-ae3b-4d2c-89e4-16dafe01c1a0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TCAT004 - Punch out cannot proceed</testCaseId>

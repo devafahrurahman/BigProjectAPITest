@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE034 - Delete Supervisor Details Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a8d0b82-a506-492b-a54b-06bc29aabd02</testCaseGuid>
+</TestCaseEntity>

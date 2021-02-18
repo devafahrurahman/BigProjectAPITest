@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;client_id\&quot; : \&quot;kidal\&quot;,\n  \&quot;client_secret\&quot; : \&quot;kidal\&quot;, \n  \&quot;grant_type\&quot; : \&quot;client_credentials\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;client_id\&quot; : \&quot;kadal\&quot;,\n  \&quot;client_secret\&quot; : \&quot;kadal\&quot;, \n  \&quot;grant_type\&quot; : \&quot;client_credentials\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -26,7 +26,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://34.123.127.154/symfony/web/index.php/oauth/issueToken</restUrl>
+   <restUrl>https://qa.cilsy.id/symfony/web/index.php/oauth/issueToken</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

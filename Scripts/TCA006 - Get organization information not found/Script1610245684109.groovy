@@ -17,5 +17,5 @@ import internal.GlobalVariable as GlobalVariable
 
 response = WS.sendRequest(findTestObject('API/Admin - Get organization information not found'))
 
-WS.verifyResponseStatusCode(response, 200)
+WS.verifyResponseStatusCode(response, 404)
 

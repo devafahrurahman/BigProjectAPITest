@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE038 - Get Employee Events Not Found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d036bc89-98c8-4ed8-bf3a-f87b210aaa88</testCaseGuid>
+</TestCaseEntity>

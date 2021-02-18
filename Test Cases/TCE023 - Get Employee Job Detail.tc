@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE023 - Get Employee Job Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f61c1e3d-ca2b-4185-a794-7e2ed49e65a3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE030 - Get Supervisor Details not found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c26ff877-f58d-47a8-8183-400ccf04ab98</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE046 - Delete Employee Work Experience Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63bd4328-d7d3-4080-b339-b8b1d891ffb6</testCaseGuid>
+</TestCaseEntity>

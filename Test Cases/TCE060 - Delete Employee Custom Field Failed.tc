@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCE060 - Delete Employee Custom Field Failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87882f89-f79c-4ab1-981c-9ab316b607a2</testCaseGuid>
+</TestCaseEntity>
